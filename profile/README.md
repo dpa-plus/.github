@@ -34,7 +34,8 @@ Mit Fokus auf Transparenz, Effizienz und nachhaltigen Mehrwert.
 
 ### 🔗 Kontakt  
 
-💬 **Mehr erfahren:** [dpa.plus](https://dpa.plus/?utm_source=github)  
+💬 **Mehr erfahren:** [dpa.plus](https://dpa.plus/?utm_source=github)
+
 ---
 
 > **DPA+** – _KI-Automatisierung, die funktioniert._  
