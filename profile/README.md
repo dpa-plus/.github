@@ -35,8 +35,6 @@ Mit Fokus auf Transparenz, Effizienz und nachhaltigen Mehrwert.
 ### 🔗 Kontakt  
 
 💬 **Mehr erfahren:** [dpa.plus](https://dpa.plus/?utm_source=github)  
-🌐 **Website:** [prozess-agentur.digital](https://prozess-agentur.digital)  
-
 ---
 
 > **DPA+** – _KI-Automatisierung, die funktioniert._  
