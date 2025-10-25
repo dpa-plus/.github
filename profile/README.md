@@ -1,8 +1,5 @@
 # 🚀 DPA+ | Prozess Agentur Digital  
 
-> **KI-Automatisierung, Prozessoptimierung & digitale Transformation.**  
-> Wir verbinden moderne KI-Technologien mit pragmatischer Prozessgestaltung – für messbar effizientere Abläufe.
-
 ---
 
 ### 💡 Was wir tun  
@@ -35,8 +32,3 @@ Mit Fokus auf Transparenz, Effizienz und nachhaltigen Mehrwert.
 ### 🔗 Kontakt  
 
 💬 **Mehr erfahren:** [dpa.plus](https://dpa.plus/?utm_source=github)
-
----
-
-> **DPA+** – _KI-Automatisierung, die funktioniert._  
-> Aus Deutschland 🇩🇪 · 100 % DSGVO-konform · Offizieller IONOS ISV Partner
