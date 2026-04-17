@@ -1,4 +1,4 @@
-# 🚀 DPA+ | Prozess Agentur Digital  
+# 🚀 DPA+ | Digitale Prozess Agentur
 
 ---
 
@@ -18,17 +18,7 @@ Mit Fokus auf Transparenz, Effizienz und nachhaltigen Mehrwert.
 
 ---
 
-### 🧭 Warum DPA+  
-
-✅ Kein Tool-Chaos – wir integrieren, was du schon nutzt  
-✅ Maßgeschneiderte Lösungen statt Standard-Automation  
-✅ Begleitung von der Idee bis zur Umsetzung  
-✅ 100 % **DSGVO-konform** – auf Wunsch vollständig innerhalb deutscher Infrastruktur  
-✅ Offizieller **IONOS ISV Partner**  
-✅ Fokus auf echten Business-Impact  
-
----
-
 ### 🔗 Kontakt  
 
 💬 **Mehr erfahren:** [dpa.plus](https://dpa.plus/?utm_source=github)
+👩🏼‍💻 **Durchstarten:**  [Offene Positionen](https://join.dpa.plus/?utm_source=github)
