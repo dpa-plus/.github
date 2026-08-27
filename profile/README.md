@@ -28,6 +28,6 @@ DPA+ baut individuelle Software und KI-Systeme für inhabergeführte Mittelstän
 
 ### Was du hier findest
 
-Auf GitHub veröffentlichen wir ausgewählte Plugins, Entwicklerwerkzeuge und Infrastruktur-Bausteine aus unserer täglichen Arbeit. Die meisten Kundensysteme bleiben bewusst privat: Quellcode und Daten gehören unseren Kunden.
+Auf GitHub veröffentlichen wir ausgewählte Plugins, Entwicklerwerkzeuge und Infrastruktur-Bausteine aus unserer täglichen Arbeit. Die Kundensysteme bleiben bewusst privat: Quellcode und Daten gehören unseren Kunden.
 
 Mehr über die Ergebnisse unserer Arbeit steht in den [Case Studies](https://dpa.plus/referenzen/?utm_source=github&amp;utm_medium=org_profile&amp;utm_campaign=readme) — oder starte direkt den [kostenlosen KI-Sichtbarkeitscheck](https://check.dpa.plus/?utm_source=github&amp;utm_medium=org_profile&amp;utm_campaign=readme).
